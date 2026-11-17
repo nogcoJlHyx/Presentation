@@ -29,8 +29,8 @@
 
 | Превью | Описание темы | Формат и ссылки |
 | :--- | :--- | :--- |
-| <img src="assets/covers/genetics.png" width="300" alt="Генетика"/> | **🧬 Генетика: Код жизни и будущее биотеха**<br><br>• Формат: 16:9 (TED Talks style)<br>• Минималистичная инфографика ДНК, мутаций и биоинформатики<br>• Чистая типографика без перегруза текстом | 📥 [Скачать .pptx](decks/01-genetics-ted-talk/genetics_presentation.pptx)<br>📂 [Папка проекта](./decks/01-genetics-ted-talk/) |
-| <img src="assets/covers/neurobiology.png" width="300" alt="Нейробиология"/> | **🧠 Нейробиология: Архитектура мышления**<br><br>• Формат: 16:9 (Public Speaking)<br>• Иллюстрации нейронных связей, когнитивных паттернов и восприятия<br>• Акцентные контрастные слайды под темный зал | 📥 [Скачать .pptx](decks/02-neurobiology-ted-talk/neurobiology_presentation.pptx)<br>📂 [Папка проекта](./decks/02-neurobiology-ted-talk/) |
+| <img src="assets/covers/genetics.jpg" width="300" alt="Генетика"/> | **🧬 Генетика: Код жизни и будущее биотеха**<br><br>• Формат: 16:9 (TED Talks style)<br>• Минималистичная инфографика ДНК, мутаций и биоинформатики<br>• Чистая типографика без перегруза текстом | 📥 [Скачать .pptx](decks/01-genetics-ted-talk/genetics_presentation.pptx)<br>📂 [Папка проекта](./decks/01-genetics-ted-talk/) |
+| <img src="assets/covers/neurobiology.jpg" width="300" alt="Нейробиология"/> | **🧠 Нейробиология: Архитектура мышления**<br><br>• Формат: 16:9 (Public Speaking)<br>• Иллюстрации нейронных связей, когнитивных паттернов и восприятия<br>• Акцентные контрастные слайды под темный зал | 📥 [Скачать .pptx](decks/02-neurobiology-ted-talk/neurobiology_presentation.pptx)<br>📂 [Папка проекта](./decks/02-neurobiology-ted-talk/) |
 
 ---
 
@@ -40,7 +40,7 @@
 
 | Превью | Описание кейса | Формат и ссылки |
 | :--- | :--- | :--- |
-| <img src="assets/covers/hackathon.png" width="300" alt="Хакатон Кейс"/> | **🏆 Hackathon Pitch: Решение проблемы компании**<br><br>• Структурирование боли бизнеса и Root Cause Analysis<br>• Архитектура предлагаемого решения / продукта<br>• Unit-экономика, дорожная карта (Roadmap) и ожидаемый ROI | 📥 [Скачать .pptx](decks/03-hackathon-problem-solving/hackathon_pitch.pptx)<br>📂 [Папка проекта](./decks/03-hackathon-problem-solving/) |
+| <img src="assets/covers/hackathon.jpg" width="300" alt="Хакатон Кейс"/> | **🏆 Hackathon Pitch: Решение проблемы компании**<br><br>• Структурирование боли бизнеса и Root Cause Analysis<br>• Архитектура предлагаемого решения / продукта<br>• Unit-экономика, дорожная карта (Roadmap) и ожидаемый ROI | 📥 [Скачать .pptx](decks/03-hackathon-problem-solving/hackathon_pitch.pptx)<br>📂 [Папка проекта](./decks/03-hackathon-problem-solving/) |
 
 ---
 
@@ -50,7 +50,7 @@
 
 | Превью | Описание модели | Формат и ссылки |
 | :--- | :--- | :--- |
-| <img src="assets/covers/bsc-cover.png" width="300" alt="BSC Модель"/> | **🎯 Balanced Scorecard (Сбалансированная система показателей)**<br><br>• 4 классические перспективы: Финансы, Клиенты, Процессы, Обучение & Рост<br>• Стратегические карты, дерево целей и каскадирование KPI<br>• Полный векторный UI-кит в Figma | 🎨 **[Открыть в Figma Community](ВСТАВЬ_СЮДА_СВОЮ_ССЫЛКУ_НА_COMMUNITY)**<br>*(Нажмите «Open in Figma» / «Duplicate»)* |
+| <img src="assets/covers/bsc-cover.png" width="300" alt="BSC Модель"/> | **🎯 Balanced Scorecard (Сбалансированная система показателей)**<br><br>• 4 классические перспективы: Финансы, Клиенты, Процессы, Обучение & Рост<br>• Стратегические карты, дерево целей и каскадирование KPI<br>• Полный векторный UI-кит в Figma | 🎨 **[Открыть в Figma Community](https://www.figma.com/community/file/1704590675498820447)**<br>*(Нажмите «Open in Figma» / «Duplicate»)* |
 
 ---
 
@@ -60,19 +60,19 @@
 presentation-templates/
 ├── assets/
 │   └── covers/
-│       ├── genetics.png
-│       ├── neurobiology.png
-│       ├── hackathon.png
+│       ├── genetics.jpg
+│       ├── neurobiology.jpg
+│       ├── hackathon.jpg
 │       └── bsc-cover.png
 ├── decks/
 │   ├── 01-genetics-ted-talk/
-│   │   ├── Архитектура ДНК.pptx
+│   │   ├── genetics_presentation.pptx
 │   │   └── README.md
 │   ├── 02-neurobiology-ted-talk/
-│   │   ├── Lag в системе.pptx
+│   │   ├── neurobiology_presentation.pptx
 │   │   └── README.md
 │   └── 03-hackathon-problem-solving/
-│       ├── Хакатан SILA union.pptx
+│       ├── hackathon_pitch.pptx
 │       └── README.md
 ├── LICENSE
 └── README.md
