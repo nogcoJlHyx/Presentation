@@ -29,18 +29,18 @@
 
 | Превью | Описание темы | Формат и ссылки |
 | :--- | :--- | :--- |
-| <img src="assets/covers/genetics.jpg" width="300" alt="Генетика"/> | **🧬 Генетика: Код жизни и будущее биотеха**<br><br>• Формат: 16:9 (TED Talks style)<br>• Минималистичная инфографика ДНК, мутаций и биоинформатики<br>• Чистая типографика без перегруза текстом | 📥 [Скачать .pptx](decks/01-genetics-ted-talk/genetics_presentation.pptx)<br>📂 [Папка проекта](./decks/01-genetics-ted-talk/) |
-| <img src="assets/covers/neurobiology.jpg" width="300" alt="Нейробиология"/> | **🧠 Нейробиология: Архитектура мышления**<br><br>• Формат: 16:9 (Public Speaking)<br>• Иллюстрации нейронных связей, когнитивных паттернов и восприятия<br>• Акцентные контрастные слайды под темный зал | 📥 [Скачать .pptx](decks/02-neurobiology-ted-talk/neurobiology_presentation.pptx)<br>📂 [Папка проекта](./decks/02-neurobiology-ted-talk/) |
+| <img src="assets/covers/genetics.jpg" width="300" alt="Генетика"/> | **🧬 Генетика: Архитектура ДНК**<br><br>• Формат: 16:9 (TED Talks style)<br>• Креативные шаблоны слайдов, мини-арт<br>• Чистая визуализация без перегруза текстом<br>• Акцентные контрастные слайды под темный зал | 📥 [Скачать .pptx](decks/01-genetics-ted-talk/genetics_presentation.pptx)<br>📂 [Папка проекта](./decks/01-genetics-ted-talk/) |
+| <img src="assets/covers/neurobiology.jpg" width="300" alt="Нейробиология"/> | **🧠 Нейробиология: Lag в системе**<br><br>• Формат: 16:9 (Public Speaking)<br>• Иллюстрации отделов головного мозга, визуальные эффекты для взаимодействия с аудиторией (шкала концентрации)<br>• Акцентные контрастные слайды под темный зал | 📥 [Скачать .pptx](decks/02-neurobiology-ted-talk/neurobiology_presentation.pptx)<br>📂 [Папка проекта](./decks/02-neurobiology-ted-talk/) |
 
 ---
 
 ### ⚡ Хакатоны и бизнес-кейсы (Problem Solving)
 
-> Динамичная структура презентации для защиты решений перед жюри и стейкхолдерами (проблема ➔ решение ➔ MVP ➔ метрики ➔ экономика внедрения).
+> Динамичная структура презентации для защиты решений перед жюри и стейкхолдерами (проблема ➔ решение ➔ MVP ➔ метрики ➔ дашборд).
 
 | Превью | Описание кейса | Формат и ссылки |
 | :--- | :--- | :--- |
-| <img src="assets/covers/hackathon.jpg" width="300" alt="Хакатон Кейс"/> | **🏆 Hackathon Pitch: Решение проблемы компании**<br><br>• Структурирование боли бизнеса и Root Cause Analysis<br>• Архитектура предлагаемого решения / продукта<br>• Unit-экономика, дорожная карта (Roadmap) и ожидаемый ROI | 📥 [Скачать .pptx](decks/03-hackathon-problem-solving/hackathon_pitch.pptx)<br>📂 [Папка проекта](./decks/03-hackathon-problem-solving/) |
+| <img src="assets/covers/hackathon.jpg" width="300" alt="Хакатон Кейс"/> | **🏆 Hackathon Pitch: Решение проблемы компании**<br><br>• Структурирование боли бизнеса и Root Cause Analysis<br>• Архитектура предлагаемого решения / продукта<br>• Настройка ПО, Дашборд | 📥 [Скачать .pptx](decks/03-hackathon-problem-solving/hackathon_pitch.pptx)<br>📂 [Папка проекта](./decks/03-hackathon-problem-solving/) |
 
 ---
 
@@ -50,7 +50,7 @@
 
 | Превью | Описание модели | Формат и ссылки |
 | :--- | :--- | :--- |
-| <img src="assets/covers/bsc-cover.png" width="300" alt="BSC Модель"/> | **🎯 Balanced Scorecard (Сбалансированная система показателей)**<br><br>• 4 классические перспективы: Финансы, Клиенты, Процессы, Обучение & Рост<br>• Стратегические карты, дерево целей и каскадирование KPI<br>• Полный векторный UI-кит в Figma | 🎨 **[Открыть в Figma Community](https://www.figma.com/community/file/1704590675498820447)**<br>*(Нажмите «Open in Figma» / «Duplicate»)* |
+| <img src="assets/covers/bsc-cover.png" width="300" alt="BSC Модель"/> | **🎯 Balanced Scorecard (Сбалансированная система показателей)**<br><br>• 4 классические перспективы: Финансы, Клиенты, Процессы, Обучение & Рост<br>• Стратегические карты, дерево целей и каскадирование KPI | 🎨 **[Открыть в Figma Community](https://www.figma.com/community/file/1704590675498820447)**<br>*(Нажмите «Open in Figma» / «Duplicate»)* |
 
 ---
 
