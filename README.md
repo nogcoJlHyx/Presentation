@@ -66,13 +66,13 @@ presentation-templates/
 │       └── bsc-cover.png
 ├── decks/
 │   ├── 01-genetics-ted-talk/
-│   │   ├── genetics_presentation.pptx
+│   │   ├── Архитектура ДНК.pptx
 │   │   └── README.md
 │   ├── 02-neurobiology-ted-talk/
-│   │   ├── neurobiology_presentation.pptx
+│   │   ├── Lag в системе.pptx
 │   │   └── README.md
 │   └── 03-hackathon-problem-solving/
-│       ├── hackathon_pitch.pptx
+│       ├── Хакатан SILA union.pptx
 │       └── README.md
 ├── LICENSE
 └── README.md
@@ -97,5 +97,5 @@ presentation-templates/
 ## 👤 Автор
 
 - GitHub: [@nogcoJlHyx](https://github.com/nogcoJlHyx)
-- Telegram: [@nogcoJlHyx](https://t.me/nogcoJlHyx)
-- Figma Community: [Мой профиль](ВСТАВЬ_ССЫЛКУ_НА_ПРОФИЛЬ_FIGMA)
+- Telegram: [@nodcoJlHyx](https://t.me/nodcoJlHyx)
+- Figma Community: [Мой профиль](https://www.figma.com/@3781486f_af45_4)
